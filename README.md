@@ -1,4 +1,7 @@
 # flutter_teste
+![Captura de tela 2024-03-31 115012](https://github.com/Gfbertogna/FLUTTER_TESTE/assets/165523561/d56b99f8-0f3a-4a99-a8bf-e049eeac2240)
+
+
 
 A new Flutter project.
 
